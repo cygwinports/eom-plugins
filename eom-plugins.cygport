@@ -2,7 +2,7 @@ inherit mate
 
 NAME="eom-plugins"
 VERSION=1.10.0
-RELEASE=1
+RELEASE=2
 CATEGORY="Graphics MATE"
 SUMMARY="Additional plugins for Eye of MATE image viewer"
 DESCRIPTION="MATE is a fork of the GNOME 2 desktop. It provides an intuitive
